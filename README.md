@@ -12,7 +12,6 @@
 ### 🧙‍♂️ Who Am I?
 
 ```yaml
-name: Hikaru Saito
 role: Full Stack Developer
 interests:
   Full Stack Development
